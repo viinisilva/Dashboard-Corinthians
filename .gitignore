@@ -1,0 +1,9 @@
+# Power BI temporary and backup files
+*.pbix.tmp
+*.pbit.tmp
+*.bak
+*.tmp
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
