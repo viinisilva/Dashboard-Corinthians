@@ -10,15 +10,15 @@ Projeto desenvolvido como prática em Análise de Dados / TI, cobrindo o ciclo c
 
 - Visão Geral
   
-<img width="1245" height="807" alt="1_VisãoGeral" src="https://github.com/user-attachments/assets/77d15d3c-7de9-42a9-8d9b-ce0e313dfec9" />
+<img width="1245" height="809" alt="1_Visão_Geral" src="https://github.com/user-attachments/assets/936e3340-04a5-4483-bcdd-b100ff3016f6" />
 
 - Jogadores
 
-<img width="1245" height="813" alt="2_Jogadores" src="https://github.com/user-attachments/assets/8c4dd76d-92f6-43e9-a8db-0c854b72d314" />
+<img width="1238" height="697" alt="2_Jogadores" src="https://github.com/user-attachments/assets/773a4d83-d8eb-4e81-a040-cdc130302460" />
 
 - Destaque
 
-<img width="1244" height="808" alt="3_Destaques" src="https://github.com/user-attachments/assets/b64f0985-a9b4-415a-98b9-3bd7f0694bc8" />
+<img width="1240" height="691" alt="3_Destaques" src="https://github.com/user-attachments/assets/04cc9911-b5ef-47ca-9cd1-23fe50046bdf" />
 
 ---
 
