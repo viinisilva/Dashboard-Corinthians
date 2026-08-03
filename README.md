@@ -118,5 +118,4 @@ CONCATENATEX(
 ## 👤 Autor
 
 **Vinicius Silva**
-Estudante de Sistemas de Informação (UNIP Alphaville) | Estagiário de TI — Banco Bradesco Financiamentos
 [GitHub](https://github.com/viinisilva)
